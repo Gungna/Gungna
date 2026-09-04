@@ -1,0 +1,82 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=210&section=header&text=I%20Gusti%20Agung%20Ngurah%20Bagus%20Krisna%20Jelantik&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Internet%20Engineering%20Technology%20%E2%80%A2%20PENS&descAlignY=58&descColor=38BDF8" width="100%" />
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Daemon+%26+Automation+Builder;Undergraduate+in+Internet+Engineering+Technology+%40+PENS;Linux+Systems+%E2%80%A2+Network+Protocols+%E2%80%A2+API+Security;Architecting+Reliable%2C+Anti-Detection+Services+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+  <br></br>
+  <a href="https://t.me/Balinese_Boy" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gungna/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/449872223134679042" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <br></br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=2&section=header" width="45%" />
+</div>
+
+### 🙋🏻‍♂️ About Me
+
+Hi! I'm **Agung Krisna** (known as **Gungna**), a backend and automation engineer specializing in reliable daemon architectures, background workers, and Linux network infrastructure.
+
+- 🔭 **Current Focus** — Completing Final Project (PA) at **Lilly Networks**
+- 🛠️ **Featured Project** — [**NaraZero v2.0**] — Smart budget tracking & monitoring platform for internal teams @ Telkomsel
+- 💻 **Core Tools** — Python, C/C++, Bash Scripting, and Linux systemd services
+- 📬 **Reach Me** — [agung.krisna.jelantik.business@gmail.com](mailto:agung.krisna.jelantik.business@gmail.com)
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,bash,linux,fastapi,git,github,docker,postman,vscode&perline=12" alt="Tech Stack" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Contribution Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Gungna&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Activity Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gungna/Gungna/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gungna/Gungna/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gungna/Gungna/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=2&section=header" width="60%" />
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=130&section=footer" width="100%" />
+</div>
