@@ -1,3 +1,7 @@
+<table align="center" width="100%">
+<tr>
+<td>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=210&section=header&text=I%20Gusti%20Agung%20Ngurah%20Bagus%20Krisna%20Jelantik&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Internet%20Engineering%20Technology%20%E2%80%A2%20PENS&descAlignY=58&descColor=38BDF8" width="100%" />
 
@@ -16,9 +20,9 @@
   <a href="https://discord.com/users/449872223134679042" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <br></br>
-  <img src="assets/wave-divider.svg" width="60%" alt="Wave Divider" />
 </div>
+
+<br/>
 
 ### 🙋🏻‍♂️ About Me
 
@@ -29,9 +33,7 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 - 💻 **Core Tools** — Python, C/C++, Bash Scripting, and Linux systemd services
 - 📬 **Reach Me** — [agung.krisna.jelantik.business@gmail.com](mailto:agung.krisna.jelantik.business@gmail.com)
 
-<div align="center">
-  <img src="assets/wave-divider.svg" width="100%" alt="Wave Divider" />
-</div>
+<br/>
 
 <div align="center">
 
@@ -43,13 +45,11 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 
 </div>
 
-<div align="center">
-  <img src="assets/wave-divider.svg" width="100%" alt="Wave Divider" />
-</div>
+<br/>
 
 <div align="center">
 
-### ⚡ Contribution & Activity Overview
+### ⚡ Contribution Streak
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -57,24 +57,14 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gungna&theme=tokyonight" alt="Activity Overview" />
-</p>
-
 </div>
 
-<div align="center">
-  <img src="assets/wave-divider.svg" width="100%" alt="Wave Divider" />
-</div>
+<br/>
 
 <div align="center">
 
 <p align="center">
   <i>"Stay curious, keep exploring, and build things that push boundaries."</i>
-</p>
-
-<p align="center">
-  <img src="assets/wave-divider.svg" width="45%" alt="Wave Divider" />
 </p>
 
 </div>
@@ -84,3 +74,7 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=130&section=footer" width="100%" />
 </div>
+
+</td>
+</tr>
+</table>
