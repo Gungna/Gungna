@@ -1,81 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 110" width="100%" height="110" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 70" width="100%" height="70" fill="none">
   <defs>
-    <!-- Animated Flowing Wave Gradient -->
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Traveling Wave Gradient orbiting the solid border -->
+    <linearGradient id="solidWaveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0EA5E9">
-        <animate attributeName="stop-color" 
-          values="#0EA5E9;#38BDF8;#6366F1;#A855F7;#0EA5E9" 
-          dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#0EA5E9;#38BDF8;#6366F1;#A855F7;#0EA5E9" dur="6s" repeatCount="indefinite" />
       </stop>
       <stop offset="35%" stop-color="#38BDF8">
-        <animate attributeName="stop-color" 
-          values="#38BDF8;#6366F1;#A855F7;#0EA5E9;#38BDF8" 
-          dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#38BDF8;#6366F1;#A855F7;#0EA5E9;#38BDF8" dur="6s" repeatCount="indefinite" />
       </stop>
       <stop offset="70%" stop-color="#6366F1">
-        <animate attributeName="stop-color" 
-          values="#6366F1;#A855F7;#0EA5E9;#38BDF8;#6366F1" 
-          dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#6366F1;#A855F7;#0EA5E9;#38BDF8;#6366F1" dur="6s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#A855F7">
-        <animate attributeName="stop-color" 
-          values="#A855F7;#0EA5E9;#38BDF8;#6366F1;#A855F7" 
-          dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#A855F7;#0EA5E9;#38BDF8;#6366F1;#A855F7" dur="6s" repeatCount="indefinite" />
       </stop>
+      <animate attributeName="x1" values="0%;100%;0%" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;0%;100%" dur="7s" repeatCount="indefinite" />
     </linearGradient>
 
-    <!-- Subtle Ambient Dark Gradient Fill -->
-    <linearGradient id="glowGrad" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.08"/>
-      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.04"/>
-      <stop offset="100%" stop-color="#0F172A" stop-opacity="0"/>
+    <!-- Subtle Ambient Dark Fill -->
+    <linearGradient id="cardBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.95"/>
     </linearGradient>
   </defs>
 
   <style>
-    .card-border {
-      stroke: url(#waveGrad);
-      stroke-width: 2.2;
-      stroke-dasharray: 28 10;
-      animation: dashFlow 22s linear infinite;
-    }
-    @keyframes dashFlow {
-      to {
-        stroke-dashoffset: -1000;
-      }
+    .solid-border {
+      stroke: url(#solidWaveGrad);
+      stroke-width: 2;
     }
     .quote-text {
       font-family: 'Fira Code', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace;
-      font-size: 15.5px;
+      font-size: 15px;
       font-style: italic;
       font-weight: 500;
       fill: #E2E8F0;
       letter-spacing: 0.3px;
     }
-    .author-badge {
-      font-family: 'Segoe UI', -apple-system, sans-serif;
-      font-size: 11.5px;
-      fill: #38BDF8;
-      opacity: 0.88;
-      font-weight: 600;
-      letter-spacing: 2px;
-    }
   </style>
 
-  <!-- Card Background Container -->
-  <rect x="4" y="4" width="792" height="102" rx="14" fill="#0B1120" stroke="#1E293B" stroke-width="1"/>
-  
-  <!-- Subtle Ambient Glow inside Card -->
-  <rect x="4" y="4" width="792" height="102" rx="14" fill="url(#glowGrad)"/>
+  <!-- Solid Card Background -->
+  <rect x="3" y="3" width="794" height="64" rx="12" fill="url(#cardBgGrad)" stroke="#1E293B" stroke-width="1"/>
 
-  <!-- Animated Gradient Border with Seamless Wave Motion -->
-  <rect x="4" y="4" width="792" height="102" rx="14" fill="none" class="card-border"/>
+  <!-- Solid Animated Gradient Wave Border (NO DASHES, PURE CONTINUOUS LINE) -->
+  <rect x="3" y="3" width="794" height="64" rx="12" fill="none" class="solid-border"/>
 
-  <!-- Center Italic Quote Text -->
-  <text x="50%" y="47" text-anchor="middle" class="quote-text">
+  <!-- Single Pure Italic Quote in Center -->
+  <text x="50%" y="40" text-anchor="middle" class="quote-text">
     "Stay curious, keep exploring, and build things that push boundaries."
-  </text>
-  <text x="50%" y="77" text-anchor="middle" class="author-badge">
-    ✦ GUNGNA • SYSTEMS &amp; ARTIFICIAL INTELLIGENCE ✦
   </text>
 </svg>
