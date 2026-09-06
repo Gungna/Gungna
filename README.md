@@ -63,13 +63,13 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 
 <div align="center">
 
-  <img src="assets/quote-card.svg" width="100%" alt="Quote Card with Animated Wave Gradient Border" />
+<p align="center">
+  <i>"Stay curious, keep exploring, and build things that push boundaries."</i>
+</p>
 
-  <br/>
-
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=2&section=header" width="60%" />
-  </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=2&section=header" width="60%" />
+</p>
 
 </div>
 
