@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <br></br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=2&section=header" width="45%" />
+  <img src="assets/wave-divider.svg" width="60%" alt="Wave Divider" />
 </div>
 
 ### 🙋🏻‍♂️ About Me
@@ -29,7 +29,9 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 - 💻 **Core Tools** — Python, C/C++, Bash Scripting, and Linux systemd services
 - 📬 **Reach Me** — [agung.krisna.jelantik.business@gmail.com](mailto:agung.krisna.jelantik.business@gmail.com)
 
----
+<div align="center">
+  <img src="assets/wave-divider.svg" width="100%" alt="Wave Divider" />
+</div>
 
 <div align="center">
 
@@ -41,7 +43,9 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 
 </div>
 
----
+<div align="center">
+  <img src="assets/wave-divider.svg" width="100%" alt="Wave Divider" />
+</div>
 
 <div align="center">
 
@@ -59,7 +63,9 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 
 </div>
 
----
+<div align="center">
+  <img src="assets/wave-divider.svg" width="100%" alt="Wave Divider" />
+</div>
 
 <div align="center">
 
@@ -68,7 +74,7 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=2&section=header" width="60%" />
+  <img src="assets/wave-divider.svg" width="45%" alt="Wave Divider" />
 </p>
 
 </div>
