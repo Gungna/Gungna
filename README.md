@@ -45,12 +45,16 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 
 <div align="center">
 
-### ⚡ Contribution Streak
+### ⚡ Contribution & Activity Overview
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Gungna&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gungna&theme=tokyonight" alt="Activity Overview" />
 </p>
 
 </div>
@@ -59,15 +63,17 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 
 <div align="center">
 
-<p align="center">
-  <i>"Stay curious, keep exploring, and build things that push boundaries."</i>
-</p>
+  <img src="assets/quote-card.svg" width="100%" alt="Quote Card with Animated Wave Gradient Border" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=2&section=header" width="60%" />
-</p>
+  <br/>
+
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=2&section=header" width="60%" />
+  </p>
 
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=130&section=footer" width="100%" />
