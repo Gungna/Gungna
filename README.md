@@ -22,7 +22,7 @@
 
 ### 🙋🏻‍♂️ About Me
 
-Hi! I'm **Agung Krisna** (known as **Gungna**), a backend and automation engineer specializing in reliable daemon architectures, background workers, and Linux network infrastructure.
+Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthusiast that loves to learn anything about all sorts of Computer Hardware, Programming, Operation Systems, Computer Networking, Cybersecurity, Internet of Things (IoT), Data Engineering, Machine Learning, AI, and many more. I always seek new opportunities to leverage my skills and I am eager to learn new things!
 
 - 🔭 **Current Focus** — Completing Final Project (PA) at **Lilly Networks**
 - 🛠️ **Featured Project** — [**NaraZero v2.0**] — Smart budget tracking & monitoring platform for internal teams @ Telkomsel
