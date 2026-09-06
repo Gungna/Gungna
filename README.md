@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=210&section=header&text=I%20Gusti%20Agung%20Ngurah%20Bagus%20Krisna%20Jelantik&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Internet%20Engineering%20Technology%20%E2%80%A2%20PENS&descAlignY=58&descColor=38BDF8" width="100%" />
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Daemon+%26+Automation+Builder;Undergraduate+in+Internet+Engineering+Technology+%40+PENS;Linux+Systems+%E2%80%A2+Network+Protocols+%E2%80%A2+API+Security;Architecting+Reliable%2C+Anti-Detection+Services+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Networking+%26+AI+Enthusiast;Undergraduate+in+Internet+Engineering+Technology+%40+PENS;Linux+Systems+%E2%80%A2+Network+Protocols+%E2%80%A2+Cybersecurity;Exploring+IoT%2C+Hardware%2C+%26+Artificial+Intelligence+%E2%9A%A1" alt="Typing SVG" />
   </a>
   <br></br>
   <a href="https://t.me/Balinese_Boy" target="_blank">
@@ -59,14 +59,8 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 
 <div align="center">
 
-### 🐍 Contribution Activity Graph
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gungna/Gungna/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gungna/Gungna/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gungna/Gungna/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <i>"Stay curious, keep exploring, and build things that push boundaries."</i>
 </p>
 
 <p align="center">
