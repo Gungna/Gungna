@@ -48,9 +48,7 @@ Hi! I'm **Agung Krisna** (known as **Gungna**), a Computer Networking & AI Enthu
 ### ⚡ Contribution Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Gungna&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-  </a>
+  <img src="./assets/streak.svg" alt="GitHub Streak" />
 </p>
 
 </div>
